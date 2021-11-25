@@ -1,0 +1,107 @@
+body{
+  margin: 0;
+  width: 100%;
+}
+h1{
+  margin: 0;
+  color: #1E2022;
+  text-align: center;
+  font-family: 'M PLUS 2', sans-serif;
+}
+h3{
+  color: #1E2022;
+  font-family: 'M PLUS 2', sans-serif;
+}
+p{
+  font-family: 'Karla', sans-serif;
+  color: grey;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  background-color: #1E2022;
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  overflow: hidden;
+}
+li{
+  display: inline-block;
+  padding:  14px 16px;
+}
+li a{
+  color:white;
+  font-family: 'M PLUS 2', sans-serif;
+  text-align: center;
+  text-decoration: none;
+}
+li a:hover{
+  color: grey;
+}
+li:active{
+  background-color: #C9D6DF;
+}
+#top-container{
+  background-color: #F0F5F9;
+  height: 400px;
+}
+.bio{
+  color: grey;
+  text-align: center;
+}
+.row{
+  display: inline;
+}
+.propicture{
+  margin-left:  43%;
+  width: 200px;
+  height: 200px;
+}
+.aboutme{
+position: absolute;
+margin-left: 25%;
+}
+.text1{
+  width: 150px;
+}
+.detail{
+  display: inline-block;
+  width: 200px;
+  margin-top: 0;
+  position: absolute;
+  margin-left:10%;
+}
+#middle-container{
+background-color: #C9D6DF;
+height: 500px;
+}
+table{
+  margin-top: 100px;
+  margin-left: 37%;
+}
+td{
+font-family: 'Karla', sans-serif;
+}
+#bottom-container{
+background-color: #F0F5F9;
+height: 500px;
+}
+#contacts{
+  background-color: #52616B;
+  height:300px;
+}
+.star{
+  padding-left: 50px;
+}
+.table{
+  margin-left: 42%;
+}
+.fa{
+  text-decoration: none;
+  display: block;
+  font-size: 20px;
+  padding: 30px;
+  text-align: center;
+  background: #52616B;
+  color: #F0F5F9;
+}
